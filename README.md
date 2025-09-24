@@ -1,2 +1,5 @@
-# https-www.iucedu.com-index.php
-Official repository for IUC Computers – [Visit Website](https://www.iucedu.com/index.php)
+# IUC Computers
+
+Welcome to the official repository of IUC Computers.  
+
+👉 [Visit our website](https://www.iucedu.com/index.php) for more details.  
