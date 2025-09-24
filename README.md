@@ -2,4 +2,4 @@
 
 Welcome to the official repository of IUC Computers.  
 
-👉 [Visit our website](https://www.iucedu.com/index.php) for more details.  
+👉 [Visit our website](https://www.iucedu.com) for more details.  
